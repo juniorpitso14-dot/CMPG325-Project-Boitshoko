@@ -1,0 +1,16 @@
+The proposed network consists of:
+
+1 router
+2 switches
+Research Department
+Administration Department
+Human Resources Department
+IT Department
+VLANs are used to logically separate the departments.
+
+VLAN	Department
+10	Research
+20	Administration
+30	Human Resources
+40	IT
+99	Management

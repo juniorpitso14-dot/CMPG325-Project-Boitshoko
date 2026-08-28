@@ -1,0 +1,11 @@
+The network must:
+
+Provide connectivity between the required departments.
+Provide an appropriate network topology and device arrangement.
+Use the assigned 192.168.50.0/24 addressing block.
+Configure routers, switches and end devices.
+Provide successful end-to-end connectivity.
+Implement Port Security.
+Accommodate eight additional staff members in one department without redesigning the network.
+Provide evidence of configuration and testing.
+Document troubleshooting and design decisions.

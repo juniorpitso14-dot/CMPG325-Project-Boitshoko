@@ -1,0 +1,6 @@
+Port Security
+Port Security was implemented on switch access ports to restrict the devices that are permitted to connect to protected switch ports.
+
+Sticky MAC address learning was used and the maximum number of permitted MAC addresses was configured as one.
+
+The violation mode was configured as shutdown.

@@ -1,33 +1,40 @@
 # CMPG325 Computer Networks Project
 
-## Botshoko Health Research Unit – Klerksdorp
+## Botshoko Health Research Unit
 
-### Student Information
+This repository contains the planning, Packet Tracer files, and evidence for a proposed computer network for the Botshoko Health Research Unit in Klerksdorp. The network uses the assigned `192.168.50.0/24` address block, VLANs to separate departmental traffic, and port security as the networking challenge.
 
-**Student:** Junia Pitso  
-**Student Number:** 39064338  
-**Module:** CMPG325 – Computer Networks  
-**Project:** Individual Semester Project  
-**Client:** Botshoko Health Research Unit  
-**Industry:** Research  
-**Location:** Klerksdorp  
+## Project details
 
----
+- **Module:** CMPG325 – Computer Networks
+- **Project:** Individual semester project
+- **Student:** Junia Pitso
+- **Student number:** 39064338
+- **Client:** Botshoko Health Research Unit
+- **Location:** Klerksdorp
+- **Simulation tool:** Cisco Packet Tracer
 
-## 1. Project Overview
+## Repository contents
 
-This project involves the design, implementation, configuration and testing of a computer network for the Botshoko Health Research Unit in Klerksdorp.
+| Folder | Contents |
+| --- | --- |
+| [`Projects_Packet tracer/`](Projects_Packet%20tracer/) | Packet Tracer project files for Milestones 1, 2, and 3. |
+| [`IP_Addressing/`](IP_Addressing/) | The IP addressing plan image. |
+| [`Port_Security/`](Port_Security/) | Port-security project material. |
+| [`Evidence/`](Evidence/) | A switch screenshot. |
+| [`Testing/`](Testing/) | Screenshots documenting testing. |
 
-The network was designed and simulated using Cisco Packet Tracer. The assigned addressing block for the project is 192.168.50.0/24.
+## Main project file
 
-The network provides connectivity between the different departments of the organisation while using VLANs to logically separate departmental traffic.
+The final milestone simulation is [`Boitshoko_Health_research.final(1).pkt`](Projects_Packet%20tracer/Final_Milestone_3/Boitshoko_Health_research.final%281%29.pkt). Open it with Cisco Packet Tracer to inspect and test the network.
 
-The project also implements Port Security as the assigned networking challenge.
+Earlier milestone files are available in [`Milestone_1/`](Projects_Packet%20tracer/Milestone_1/) and [`Milestone_2/`](Projects_Packet%20tracer/Milestone_2/).
 
----
+## Supporting images
 
-## 10. Conclusion
+- [IP addressing plan](IP_Addressing/IP%20Addressing_plan.png)
+- [Switch evidence](Evidence/Switch2.png)
+- [Testing evidence 1](Testing/Testing_Final%20evidence.png)
+- [Testing evidence 2](Testing/Testing_final_evedence2.png)
 
-The completed network provides a structured and scalable network solution for the Botshoko Health Research Unit.
 
-The design provides departmental segmentation through VLANs, routing between VLANs, appropriate IP addressing, Port Security and capacity for the requested additional staff.
